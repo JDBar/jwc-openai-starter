@@ -13,7 +13,8 @@ npm init -y
 
 # Install runtime dependencies.
 npm install \
-	fastify@latest
+	fastify@latest \
+	openai@latest
 
 # fastify is a web framework, which makes it easy to create a web server.
 # It's included for this example project, but you can use any framework/libraries you want.

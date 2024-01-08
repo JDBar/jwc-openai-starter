@@ -1,7 +1,7 @@
 {
-	"name": "jwc-typescript-starter",
+	"name": "jwc-openai-starter",
 	"version": "1.0.0",
-	"description": "A starter project for using TypeScript with ES Modules.",
+	"description": "A starter project for using OpenAI API, using TypeScript with ES Modules.",
 	"author": "Joseph Barron (Joseph Writes Code)",
 	"website": "http://josephwritescode.com",
 	"license": "MIT",
@@ -12,7 +12,8 @@
 		"build": "pkgroll"
 	},
 	"dependencies": {
-		"fastify": "^4.24.3"
+		"fastify": "^4.24.3",
+		"openai": "^4.24.1"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^6.11.0",
