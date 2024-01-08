@@ -12,6 +12,7 @@
 		"build": "pkgroll"
 	},
 	"dependencies": {
+		"dotenv": "^16.3.1",
 		"fastify": "^4.24.3",
 		"openai": "^4.24.1"
 	},
