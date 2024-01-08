@@ -1,6 +1,6 @@
-# TypeScript Starter by [Joseph Writes Code](https://josephwritescode.substack.com)
+# OpenAI TypeScript Starter by [Joseph Writes Code](https://josephwritescode.substack.com)
 
-The hardest part of learning something new is often just getting started. This starter project is designed to get you up and running with a minimal TypeScript project as quickly as possible, so you can focus on learning new things. It includes comments in most files to help you understand what's going on, in terms of configuration.
+The hardest part of learning something new is often just getting started. This starter project is designed to get you up and running with a minimal OpenAI TypeScript project as quickly as possible, so you can focus on learning new things. It includes comments in most files to help you understand what's going on, in terms of configuration.
 
 ## Who is this for?
 
@@ -11,6 +11,8 @@ The hardest part of learning something new is often just getting started. This s
 ## What's Included
 
 - **Next-gen TypeScript** configured for [ES Modules](https://www.typescriptlang.org/docs/handbook/modules/reference.html)
+- **OpenAI API** with [OpenAI-Node](https://github.com/openai/openai-node)
+- **API Key Loading** with [dotenv](https://github.com/motdotla/dotenv)
 - **Linting** with [ESLint](https://github.com/eslint/eslint)
 - **Formatting** with [Prettier](https://github.com/prettier/prettier)
 - **Bundling** with [Pkgroll](https://github.com/privatenumber/pkgroll)

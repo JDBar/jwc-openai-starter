@@ -20,6 +20,9 @@ npm install \
 # fastify is a web framework, which makes it easy to create a web server.
 # It's included for this example project, but you can use any framework/libraries you want.
 
+# dotenv is a library that loads environment variables from a .env file.
+# This way, you can keep your API keys secret.
+
 # Install development dependencies.
 npm install --save-dev \
 	typescript@latest \
